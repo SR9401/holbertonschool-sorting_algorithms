@@ -1,11 +1,11 @@
 #include "sort.h"
 
 /**
+*bubble_sort - fonction qui trie les elements d'un tableau
 *
+*@array: tableau a trier
 *
-*
-*
-*
+*@size: taille du tableau
 **/
 void bubble_sort(int *array, size_t size)
 
